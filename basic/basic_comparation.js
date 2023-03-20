@@ -18,3 +18,9 @@ console.log('typeof n2: ',typeof n2) // number, because str can not minuses
 let counter = 1;
 let a = ++counter; // (*)
 console.log('a: ', a)
+
+//
+let counter = 1;
+let n3 = 2 * ++counter // 4
+console.log('n3: ', n3)
+
