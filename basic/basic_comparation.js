@@ -17,5 +17,4 @@ console.log('typeof n2: ',typeof n2) // number, because str can not minuses
 // counter 1
 let counter = 1;
 let a = ++counter; // (*)
-
 console.log('a: ', a)
